@@ -3,7 +3,7 @@ En este repositorio se encuentra el material del curso Big Data dictado en UdeSA
 
 El sitio web del curso es: https://bigdataudesa.weebly.com/
 
-| Tutorial | Nombre | Fecha | Videos |
+| Tutorial | Nombre | Videos | Fecha |
 |-----------|-----------|-----------|-----------|
 | Tutorial 1   | Introducción a Python    |     | 30/9    |
 | Tutorial 2   | Introducción a Python    |     | 7/10    |
