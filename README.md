@@ -3,13 +3,13 @@ En este repositorio se encuentra el material del curso Big Data dictado en UdeSA
 
 El sitio web del curso es: https://bigdataudesa.weebly.com/
 
-| Tutorial | Nombre | Videos | Fecha |
-|-----------|-----------|-----------|-----------|
-| Tutorial 1   | Introducción a Python    |     | 30/9    |
-| Tutorial 2   | Web Scraping y manejo de APIs (Jupyter, Spyder)    |     | 7/10    |
-| Tutorial 3   | Introducción a Pandas, Matplotlib y Selenium    |     | 14/10    |
-| Tutorial 4   | Regresión y clasificación   |     | 21/10    |
-| Tutorial 5   | K-fold cross validation    |     | 28/10    |
-| Tutorial 6   | I	Ridge y Lasso    |     | 4/11    |
-| Tutorial 7   | CART, Bagging, Random Forest y Boosting    |     | 11/11    |
-| Tutorial 8   | Componentes principales    |     | 18/11    |
+| Tutorial | Nombre | Videos |
+|-----------|-----------|-----------|
+| Tutorial 1   | Introducción a Python    | <a href="https://udesa.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=b8d750e6-10eb-4246-90df-b36a0039e3a8 " target="_blank">Link a la clase</a>    |
+| Tutorial 2   | Web Scraping y manejo de APIs (Jupyter, Spyder)    |     |
+| Tutorial 3   | Introducción a Pandas, Matplotlib y Selenium    |     |
+| Tutorial 4   | Regresión y clasificación   |     |
+| Tutorial 5   | K-fold cross validation    |     | 
+| Tutorial 6   | I	Ridge y Lasso    |     | 
+| Tutorial 7   | CART, Bagging, Random Forest y Boosting    |     |
+| Tutorial 8   | Componentes principales    |     |
