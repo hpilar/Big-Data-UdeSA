@@ -1,0 +1,2 @@
+Escribimos las primeras palabras en el archivo. 
+Luego, estas palabras se agregarán al final del archivo.
