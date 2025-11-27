@@ -10,6 +10,6 @@ El sitio web del curso es: https://bigdataudesa.weebly.com/
 | Tutorial 3   | Introducción a Pandas, Matplotlib y Selenium    | <a href="https://udesa.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=99e13055-b222-4c00-ba0e-b38c012c0595" target="_blank">Link a la clase</a>  |
 | Tutorial 4   | Regresión y clasificación   | <a href="https://udesa.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=bf5cc93e-c8ad-42b3-8a49-b3a0004b4521" target="_blank">Link a la clase</a>    |
 | Tutorial 5   | K-fold cross validation    | <a href="https://udesa.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=56fb0645-eb46-4202-9f55-b3a0004b4970" target="_blank">Link a la clase</a>     | 
-| Tutorial 6   | I	Ridge y Lasso    |     | 
+| Tutorial 6   | Ridge y Lasso    |  <a href="https://udesa.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%221e8ee678-3c01-4a21-aa40-b3a20139e1bd" target="_blank">Link a la clase</a>   | 
 | Tutorial 7   | CART, Bagging, Random Forest y Boosting    |     |
 | Tutorial 8   | Componentes principales    |     |
